@@ -1,0 +1,19 @@
+{
+    "usuarios": [
+        {
+            "nome": "Fulano",
+            "email": "peter.quill@gmail.com",
+            "password": "Senha12345"
+        },
+        {
+            "nome": "Ciclano",
+            "email": "gamora@gmail.com",
+            "password": "Senha123456"
+        },
+        {
+            "nome": "Beltrano",
+            "email": "batman@gmail.com.br",
+            "password": "Senha1234567"
+        }
+    ]
+}
